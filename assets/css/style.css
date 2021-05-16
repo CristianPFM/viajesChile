@@ -1,0 +1,22 @@
+* {
+  scroll-behavior: smooth;
+  font-family: 'Ubuntu', sans-serif;
+}
+body {
+  background-color: black;
+  color: whitesmoke;
+
+}
+
+
+hr {
+  height: 1px;
+  background-color: #249ea9;
+}
+
+.bg-magenta {
+    background-color: #249ea9;
+}
+#quienessomos {
+  font-weight: 300;
+}
